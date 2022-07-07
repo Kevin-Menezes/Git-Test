@@ -17,7 +17,4 @@ https://coursera.org/share/cebcae7748a9eb00814fc2c713955adf
 - Open this folder in any code editor (VS code preferred)
 - Run the index.html file
 
-<br/>
-<hr>
-
-<img alt="Index.html" src="https://github.com/Kevin-Menezes/Notes-Academy/blob/main/Index.png">
+<img alt="Index.html" src="https://github.com/Kevin-Menezes/Git-Test/blob/master/index.html.png">
